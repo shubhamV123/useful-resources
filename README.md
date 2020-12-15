@@ -7,6 +7,7 @@ A list of sites which can be helpful I found so far from web
 * Complete accessibility resource [list](https://a11yresources.webflow.io/)
 * How https works [comic](https://howhttps.works/episodes/)
 * How HTTPS Secures Connection [link](https://blog.hartleybrody.com/https-certificates/)
+* High performance browser networking [link](https://hpbn.co/)
 
 
 
