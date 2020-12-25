@@ -13,3 +13,7 @@ A list of sites which can be helpful I found so far from web
 
 ## React
 * [React interview questions](https://blog.scrimba.com/react-interview-questions/#is-the-virtual-dom-the-same-as-the-shadow-dom)
+
+## Blog 
+
+* Blog post (title)[https://www.locationrebel.com/blog-post-titles/]
