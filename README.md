@@ -8,7 +8,7 @@ A list of sites which can be helpful I found so far from web
 * How https works [comic](https://howhttps.works/episodes/)
 * How HTTPS Secures Connection [link](https://blog.hartleybrody.com/https-certificates/)
 * High performance browser networking [link](https://hpbn.co/)
-
+* Some cool comics on networking and internet[link](https://wizardzines.com/)
 
 
 ## React
