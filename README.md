@@ -10,6 +10,10 @@ A list of sites which can be helpful I found so far from web
 * High performance browser networking [link](https://hpbn.co/)
 * Some cool comics on networking and internet[link](https://wizardzines.com/)
 
+## Javascript
+
+* https://1loc.dev/
+
 
 ## React
 * [React interview questions](https://blog.scrimba.com/react-interview-questions/#is-the-virtual-dom-the-same-as-the-shadow-dom)
