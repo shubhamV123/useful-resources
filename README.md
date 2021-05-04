@@ -17,6 +17,9 @@ A list of sites which can be helpful I found so far from web
 * https://designingforperformance.com/
 * GTM to google analytics connect: https://www.youtube.com/watch?v=RFdBnEi9JTA&t=1s
 
+## CSS
+
+* https://markodenic.com/css-tips
 
 ## React
 * [React interview questions](https://blog.scrimba.com/react-interview-questions/#is-the-virtual-dom-the-same-as-the-shadow-dom)
