@@ -16,6 +16,7 @@ A list of sites which can be helpful I found so far from web
 * https://thisthat.dev/
 * https://designingforperformance.com/
 * GTM to google analytics connect: https://www.youtube.com/watch?v=RFdBnEi9JTA&t=1s
+* JS VAULT https://jsvault.com/array-flatten
 
 ## CSS
 
