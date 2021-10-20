@@ -8,7 +8,9 @@ A list of sites which can be helpful I found so far from web
 * How https works [comic](https://howhttps.works/episodes/)
 * How HTTPS Secures Connection [link](https://blog.hartleybrody.com/https-certificates/)
 * High performance browser networking [link](https://hpbn.co/)
-* Some cool comics on networking and internet[link](https://wizardzines.com/)
+* Some cool comics on networking and internet [link](https://wizardzines.com/)
+* How equity work [link](https://faingezicht.com/articles/2021/09/20/evaluating-startup-offers/)
+* Best Negotiation article [link](https://www.kalzumeus.com/2012/01/23/salary-negotiation/)
 
 ## Javascript
 
