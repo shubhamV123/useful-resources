@@ -12,6 +12,10 @@ A list of sites which can be helpful I found so far from web
 * How equity work [link](https://faingezicht.com/articles/2021/09/20/evaluating-startup-offers/)
 * Best Negotiation article [link](https://www.kalzumeus.com/2012/01/23/salary-negotiation/)
 
+
+## Hiring
+* Hackernews Hiring [link](https://hnhiring.com)
+
 ## Javascript
 
 * https://1loc.dev/
